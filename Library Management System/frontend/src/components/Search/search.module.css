@@ -1,0 +1,15 @@
+.search {
+  width: 20vw;
+  max-width: 20vw;
+  height: 7.5vh;
+  max-height: 7.5vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  width: 10vw;
+  max-width: 10vw;
+}
